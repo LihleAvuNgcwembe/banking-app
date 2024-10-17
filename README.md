@@ -16,3 +16,5 @@ Requirement 2 - Exception Handling
 Requirement 3 - Transferring 
 Funds Between Accounts This feature involves debiting an amount from one account and crediting it to another. Transfer Fund REST API: To transfer the amount from one account to another.
 
+Note that this application was run  using mysql workbench on a local database be sure to configure the database setup by entering application properties and changing spring datasource URL, username, and passwords.   
+
